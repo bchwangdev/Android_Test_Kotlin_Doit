@@ -13,5 +13,17 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Doit"
-include ':app'
 include ':ch6_view'
+include ':ch7_layout'
+include ':ch9_resource'
+include ':ch10_notification'
+include ':ch8_event'
+include ':ch11_jetpack'
+include ':ch12_material'
+include ':ch13_activity'
+include ':ch14_receiver'
+include ':ch16_provider'
+include ':ch17_database'
+include ':ch18_network'
+include ':ch19_map'
+include ':ch20_firebase'
